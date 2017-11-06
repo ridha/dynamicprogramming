@@ -1,2 +1,2 @@
-# dynamicprogramming
+# dynamic-programming
 DP solutions
